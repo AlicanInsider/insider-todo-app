@@ -1,5 +1,5 @@
 # insider-todo-app
-##Commands
+## Commands
   - npm install 
   - npm run build
-This is the example todo app for help insiders vuejs learning process.
+### This is the example todo app for help insiders vuejs learning process.
